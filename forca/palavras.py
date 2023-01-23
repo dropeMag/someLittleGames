@@ -1,0 +1,1 @@
+palavras = ["abacaxi","palavras","morango","castelo","rosto","abelha","cabine","cama","panela","laranja","jarra","peixe","dez","carpinteiro","programador","cobra","sapato","brinquedo","espada","tigre","alface","fazenda"]
